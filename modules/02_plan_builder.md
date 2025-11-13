@@ -12,5 +12,5 @@ for each day:
     pick Midday activity (close by)  
     pick Afternoon activity (different theme)  
     pick Evening restaurant or optional event
-    filter activities by user preferences (budget, interests, pace)
+    filter activities by user preferences ($200 budget, vegetarian diet, medium pace)
 
