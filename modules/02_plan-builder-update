@@ -1,0 +1,6 @@
+# Module 2 — Plan Builder (Options → Days)
+
+**Change Log (v2):**
+- Replaced vague “short loop” with explicit sequential assignment logic
+- Integrated user preferences (pace, interests, dietary/mobility/budget constraints)
+- Added fallback rules for missing lodging, restaurants, or attractions
